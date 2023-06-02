@@ -3,6 +3,8 @@
 
 ##  Data
 - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+## Embedding
+- https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2
 
 ## 선제 조건
 - openAI API 키 받기
